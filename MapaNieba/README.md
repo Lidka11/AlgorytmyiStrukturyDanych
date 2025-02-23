@@ -1,4 +1,5 @@
-Sky Constellations
+Sky Constellations ☁️ 
+
 Program analizuje mapę nieba, reprezentowaną jako siatka 1 i 0, gdzie 1 oznacza gwiazdę, a 0 pustą przestrzeń. 
 Celem jest:
 
