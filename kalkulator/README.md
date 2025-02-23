@@ -1,4 +1,4 @@
-Kalkulator Wyrażeń Matematycznych
+Kalkulator 🧮
 
 Program implementuje prosty kalkulator, który oblicza wynik wyrazu matematycznego wprowadzonego w postaci ciągu znaków. Obsługuje operacje podstawowe: dodawanie, odejmowanie, mnożenie i dzielenie, a także nawiasy.
 
@@ -10,6 +10,7 @@ Przykład
 Dla wejścia:
 
 3 + 2 * (5 - 2)
+
 Program wykona obliczenia w odpowiedniej kolejności i zwróci wynik:
 
 9
